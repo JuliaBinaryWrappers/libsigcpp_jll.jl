@@ -1,0 +1,288 @@
+[[libsigcpp]]
+arch = "aarch64"
+git-tree-sha1 = "7295a216185221eefe9689045d7a90405483e6c7"
+os = "macos"
+
+    [[libsigcpp.download]]
+    sha256 = "ba5c2cd669556d93a465440d4cbb5714718668b4fbb645ee183614c5d3241f4d"
+    url = "https://github.com/JuliaBinaryWrappers/libsigcpp_jll.jl/releases/download/libsigcpp-v3.0.7+0/libsigcpp.v3.0.7.aarch64-apple-darwin.tar.gz"
+[[libsigcpp]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "32a9a9c593ed42c00d94a6e3e95f970f43ac6b51"
+libc = "glibc"
+os = "linux"
+
+    [[libsigcpp.download]]
+    sha256 = "73d04b4202f6b2f5fb6769e42e839faf23175392902a977ef0f9b520b53bd0e6"
+    url = "https://github.com/JuliaBinaryWrappers/libsigcpp_jll.jl/releases/download/libsigcpp-v3.0.7+0/libsigcpp.v3.0.7.aarch64-linux-gnu-cxx03.tar.gz"
+[[libsigcpp]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e03b65d18af289ca0576e3f2ab47b51cee1c4985"
+libc = "glibc"
+os = "linux"
+
+    [[libsigcpp.download]]
+    sha256 = "1fec8f6f0fe1bac1284d816c48bf315822b1bd3e7b7f29d65fb2cb4cbc6666e9"
+    url = "https://github.com/JuliaBinaryWrappers/libsigcpp_jll.jl/releases/download/libsigcpp-v3.0.7+0/libsigcpp.v3.0.7.aarch64-linux-gnu-cxx11.tar.gz"
+[[libsigcpp]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e3323b608c606f970ad7a77a2845682811d3424a"
+libc = "musl"
+os = "linux"
+
+    [[libsigcpp.download]]
+    sha256 = "81466a14310a66236a2db00ed4210cb3407392bbc35785e21f5e590bd3ca79c9"
+    url = "https://github.com/JuliaBinaryWrappers/libsigcpp_jll.jl/releases/download/libsigcpp-v3.0.7+0/libsigcpp.v3.0.7.aarch64-linux-musl-cxx03.tar.gz"
+[[libsigcpp]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0534751633806a703e13a700892a3d5b7a083d8e"
+libc = "musl"
+os = "linux"
+
+    [[libsigcpp.download]]
+    sha256 = "f2e9de3299dc8ab5a087d3472244d52827fc9e34fa378cdcc35127e61035eb9c"
+    url = "https://github.com/JuliaBinaryWrappers/libsigcpp_jll.jl/releases/download/libsigcpp-v3.0.7+0/libsigcpp.v3.0.7.aarch64-linux-musl-cxx11.tar.gz"
+[[libsigcpp]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bfc3dc986726f4b7ea3261882f79855ae0a91895"
+libc = "glibc"
+os = "linux"
+
+    [[libsigcpp.download]]
+    sha256 = "1c5927a51a7c602001b5466bd24b9fd2b7712b8e7f9831c0b8ed0d1ac497677d"
+    url = "https://github.com/JuliaBinaryWrappers/libsigcpp_jll.jl/releases/download/libsigcpp-v3.0.7+0/libsigcpp.v3.0.7.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[libsigcpp]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f054af7aa58726388c60818b10272c100cad8237"
+libc = "glibc"
+os = "linux"
+
+    [[libsigcpp.download]]
+    sha256 = "0580c222859f220eb663eea0949e6789a8b096e56846fb808261c3e5fda25d92"
+    url = "https://github.com/JuliaBinaryWrappers/libsigcpp_jll.jl/releases/download/libsigcpp-v3.0.7+0/libsigcpp.v3.0.7.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[libsigcpp]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "66244f4fe503ffc5e20635b1ac7444c274a4ff89"
+libc = "musl"
+os = "linux"
+
+    [[libsigcpp.download]]
+    sha256 = "f32f7e5b0b63db1d162a3bc64d0c46b81f24f9c360c08dd2696b826462f9ef20"
+    url = "https://github.com/JuliaBinaryWrappers/libsigcpp_jll.jl/releases/download/libsigcpp-v3.0.7+0/libsigcpp.v3.0.7.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[libsigcpp]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "81a3432886c5c3e4d707b7afff0126d65d780f62"
+libc = "musl"
+os = "linux"
+
+    [[libsigcpp.download]]
+    sha256 = "a57c13a39e9fd36d5c9190918b24f8325b9452a6951bf37d1d8d77d84d37cad7"
+    url = "https://github.com/JuliaBinaryWrappers/libsigcpp_jll.jl/releases/download/libsigcpp-v3.0.7+0/libsigcpp.v3.0.7.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[libsigcpp]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f3d0985ae21b5906ea09f13504a21c911ccd26ff"
+libc = "glibc"
+os = "linux"
+
+    [[libsigcpp.download]]
+    sha256 = "55326def4bcd34f86cdda06b531c0c6d52a0b688b2a1820769a3d0367bf5318c"
+    url = "https://github.com/JuliaBinaryWrappers/libsigcpp_jll.jl/releases/download/libsigcpp-v3.0.7+0/libsigcpp.v3.0.7.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[libsigcpp]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4340f4d72b685634c36ca4e50455f785f5e49151"
+libc = "glibc"
+os = "linux"
+
+    [[libsigcpp.download]]
+    sha256 = "8466a599c4df8d7f67d7989924764e73b20b0a2b64c217b6d20507f337931b6b"
+    url = "https://github.com/JuliaBinaryWrappers/libsigcpp_jll.jl/releases/download/libsigcpp-v3.0.7+0/libsigcpp.v3.0.7.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[libsigcpp]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e1a14d1c84913bfac8b43122dab0a948a5d77bcc"
+libc = "musl"
+os = "linux"
+
+    [[libsigcpp.download]]
+    sha256 = "7ffb6c63b9cbf5d44a92b56f63d9d7a8a6781db4379627d92a4dcff80f037109"
+    url = "https://github.com/JuliaBinaryWrappers/libsigcpp_jll.jl/releases/download/libsigcpp-v3.0.7+0/libsigcpp.v3.0.7.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[libsigcpp]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d402d3afe581b74ce966a12f64c3b68ec7d7f753"
+libc = "musl"
+os = "linux"
+
+    [[libsigcpp.download]]
+    sha256 = "48f9df35ce9e29893ff3cef010d8590e09e40201d300bdaf123036bf51f9f008"
+    url = "https://github.com/JuliaBinaryWrappers/libsigcpp_jll.jl/releases/download/libsigcpp-v3.0.7+0/libsigcpp.v3.0.7.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[libsigcpp]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6143bbeacad202b04aa5c13235b4023ea2385c25"
+libc = "glibc"
+os = "linux"
+
+    [[libsigcpp.download]]
+    sha256 = "bee799ef5eb5d0b99d7d41dcdaea4b9a11e055e31402e4da9a5c08528246298c"
+    url = "https://github.com/JuliaBinaryWrappers/libsigcpp_jll.jl/releases/download/libsigcpp-v3.0.7+0/libsigcpp.v3.0.7.i686-linux-gnu-cxx03.tar.gz"
+[[libsigcpp]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4d4374b189b3fbc9d4bff79a4a9a7ae79e0c331a"
+libc = "glibc"
+os = "linux"
+
+    [[libsigcpp.download]]
+    sha256 = "82d2a872a06a81c20c270e1242f86e22c9c7fd44a6a969ff14ea6ec0b307622e"
+    url = "https://github.com/JuliaBinaryWrappers/libsigcpp_jll.jl/releases/download/libsigcpp-v3.0.7+0/libsigcpp.v3.0.7.i686-linux-gnu-cxx11.tar.gz"
+[[libsigcpp]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9b3645a4b88b87bce30459bb58080ce03010b71c"
+libc = "musl"
+os = "linux"
+
+    [[libsigcpp.download]]
+    sha256 = "e952ead8e34be483b08b46da6220793e7867f5fc8656ee1f363719f0ce8b2ac3"
+    url = "https://github.com/JuliaBinaryWrappers/libsigcpp_jll.jl/releases/download/libsigcpp-v3.0.7+0/libsigcpp.v3.0.7.i686-linux-musl-cxx03.tar.gz"
+[[libsigcpp]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6c9cdf3ca71b891033092d4fdab5aa4cb71c19ae"
+libc = "musl"
+os = "linux"
+
+    [[libsigcpp.download]]
+    sha256 = "f7adfa2d5866b66cf93249325b99c62770e99e467d42e5e070429fe084dd8eff"
+    url = "https://github.com/JuliaBinaryWrappers/libsigcpp_jll.jl/releases/download/libsigcpp-v3.0.7+0/libsigcpp.v3.0.7.i686-linux-musl-cxx11.tar.gz"
+[[libsigcpp]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ab9853db853215bf7f93ca86d86fcb4f0f3e48f1"
+os = "windows"
+
+    [[libsigcpp.download]]
+    sha256 = "d22f417a02f87aede9a16fed1cbdc05896df0d130ef857d70823c8c0439c234d"
+    url = "https://github.com/JuliaBinaryWrappers/libsigcpp_jll.jl/releases/download/libsigcpp-v3.0.7+0/libsigcpp.v3.0.7.i686-w64-mingw32-cxx03.tar.gz"
+[[libsigcpp]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "42f8162b8b1a78a9ef1d5ab15a471ee2ed84cfa9"
+os = "windows"
+
+    [[libsigcpp.download]]
+    sha256 = "5552ef4b832133d37dd8178d45586f8de702725bb90cb45574507761f70390c8"
+    url = "https://github.com/JuliaBinaryWrappers/libsigcpp_jll.jl/releases/download/libsigcpp-v3.0.7+0/libsigcpp.v3.0.7.i686-w64-mingw32-cxx11.tar.gz"
+[[libsigcpp]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "10bbcc05847f4d2acff5e03bc969f41f3c86f183"
+libc = "glibc"
+os = "linux"
+
+    [[libsigcpp.download]]
+    sha256 = "4f195615b596c9d52ece22868d95bb3c3799aedad6edf764be76c63ab5780128"
+    url = "https://github.com/JuliaBinaryWrappers/libsigcpp_jll.jl/releases/download/libsigcpp-v3.0.7+0/libsigcpp.v3.0.7.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[libsigcpp]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "89377a4eb3f08ea972203c6eb58ac31c5211ef74"
+libc = "glibc"
+os = "linux"
+
+    [[libsigcpp.download]]
+    sha256 = "ab5543b54048a7fbaa5c4acbd074146dac6b9699e6e031cf22bb91b4d8ea7d00"
+    url = "https://github.com/JuliaBinaryWrappers/libsigcpp_jll.jl/releases/download/libsigcpp-v3.0.7+0/libsigcpp.v3.0.7.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[libsigcpp]]
+arch = "x86_64"
+git-tree-sha1 = "9b8157e937b3b113b3a76028f2a3646571d27859"
+os = "macos"
+
+    [[libsigcpp.download]]
+    sha256 = "970d4f79c014b7acbf129827b86e6ae3e80c186d28bfb49cae5c3ab68cee62a7"
+    url = "https://github.com/JuliaBinaryWrappers/libsigcpp_jll.jl/releases/download/libsigcpp-v3.0.7+0/libsigcpp.v3.0.7.x86_64-apple-darwin.tar.gz"
+[[libsigcpp]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9f1cbf64ba21da9e22457f4fdb2a2ac7d737dfeb"
+libc = "glibc"
+os = "linux"
+
+    [[libsigcpp.download]]
+    sha256 = "8aa2fd0d030d1464844145fd3eac47ab582845637cbea6cf529e4e46f867c93c"
+    url = "https://github.com/JuliaBinaryWrappers/libsigcpp_jll.jl/releases/download/libsigcpp-v3.0.7+0/libsigcpp.v3.0.7.x86_64-linux-gnu-cxx03.tar.gz"
+[[libsigcpp]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "530dcd46eeeed4019002baa9abe0bdec196fea0d"
+libc = "glibc"
+os = "linux"
+
+    [[libsigcpp.download]]
+    sha256 = "ce9396530600bafa6ed56e4b3f2795a7add1e26a50e293ebe9de8b71cbf8415e"
+    url = "https://github.com/JuliaBinaryWrappers/libsigcpp_jll.jl/releases/download/libsigcpp-v3.0.7+0/libsigcpp.v3.0.7.x86_64-linux-gnu-cxx11.tar.gz"
+[[libsigcpp]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9893b4944c34d5b79554405477d50b34450c69a8"
+libc = "musl"
+os = "linux"
+
+    [[libsigcpp.download]]
+    sha256 = "f5a4f1a20feef929a32a62b7beff1d6d7454b648514476d9ca864d4059a354b2"
+    url = "https://github.com/JuliaBinaryWrappers/libsigcpp_jll.jl/releases/download/libsigcpp-v3.0.7+0/libsigcpp.v3.0.7.x86_64-linux-musl-cxx03.tar.gz"
+[[libsigcpp]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0c59b0f3ae377e705e6ea8ca15ba0a9a0d94abef"
+libc = "musl"
+os = "linux"
+
+    [[libsigcpp.download]]
+    sha256 = "6890f3e7141c0f1c75ea610632ee778d131afd24294be9e53424f0f4f8cc33d0"
+    url = "https://github.com/JuliaBinaryWrappers/libsigcpp_jll.jl/releases/download/libsigcpp-v3.0.7+0/libsigcpp.v3.0.7.x86_64-linux-musl-cxx11.tar.gz"
+[[libsigcpp]]
+arch = "x86_64"
+git-tree-sha1 = "0b25e8073f5928bc1f33d5fb19a38f4dfe76b6bf"
+os = "freebsd"
+
+    [[libsigcpp.download]]
+    sha256 = "17192358d5221bae827085f0e3a42d5bd38dd5a9f010a597a3434115e7dea590"
+    url = "https://github.com/JuliaBinaryWrappers/libsigcpp_jll.jl/releases/download/libsigcpp-v3.0.7+0/libsigcpp.v3.0.7.x86_64-unknown-freebsd.tar.gz"
+[[libsigcpp]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "562af2a3949dac8bec884a6efd5d99ec37009741"
+os = "windows"
+
+    [[libsigcpp.download]]
+    sha256 = "98c43bc685a52fc2520fc59119143346d1864af37f1850f7f51c3943ab285a7c"
+    url = "https://github.com/JuliaBinaryWrappers/libsigcpp_jll.jl/releases/download/libsigcpp-v3.0.7+0/libsigcpp.v3.0.7.x86_64-w64-mingw32-cxx03.tar.gz"
+[[libsigcpp]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "701eaeda7b71cdd13dd8473fc12c03784b6a0faa"
+os = "windows"
+
+    [[libsigcpp.download]]
+    sha256 = "7df64d839cf0f4a30f973e6c9c6dd8663cc5833b769cb38cde6155dae6a589e8"
+    url = "https://github.com/JuliaBinaryWrappers/libsigcpp_jll.jl/releases/download/libsigcpp-v3.0.7+0/libsigcpp.v3.0.7.x86_64-w64-mingw32-cxx11.tar.gz"
